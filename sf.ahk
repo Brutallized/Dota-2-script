@@ -37,10 +37,10 @@ return
 
 LAlt & d::
   direct()
-  item(2)    			; change to YOUR EUL HOTKEY
+  item(2)    			;Back
   Sleep, 830 			
   Send, {%stop%}    	
-  item(3)				; change to YOUR BLINK HOTKEY
+  item(3)				;Space 
   delay() 				
   ability(6)			
 return
